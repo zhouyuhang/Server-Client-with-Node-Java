@@ -1,0 +1,9 @@
+{
+	"sitesToTest": 
+		[
+			"http://www.google.com",
+			"http://cnn.com",
+			"http://espn.com"
+		],
+	"iterations": 10
+}
